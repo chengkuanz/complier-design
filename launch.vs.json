@@ -1,0 +1,16 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "JupiterCompiler.exe",
+      "name": "JupiterCompiler.exe",
+      "args": [
+        "P",
+        "INPUT_testing.jup"
+      ]
+    }
+  ]
+}

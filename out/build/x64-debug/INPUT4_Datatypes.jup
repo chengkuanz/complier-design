@@ -1,0 +1,16 @@
+@
+Julius Example
+The program is lexically correct about the SOFIA city 
+@
+main% {
+	
+		int ^FoundationYear^;
+		real &Area&, &HDI&;
+		string #CountryName#;
+		^FoundationYear^ = 0 - 7000 ;
+		&Area& = 492.0;
+		&HDI&=0.871;
+		#CountryName# = 'Bulgary';
+		print%(#CountryName#);
+	
+}
