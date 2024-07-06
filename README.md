@@ -53,6 +53,6 @@ To run the project, navigate to the `complier-design/out/build/x64-debug` direct
 
 ## Authors
 
-This game was developed by [Chengkuan Zhao](https://github.com/chengkuanz) and [Chang Liu](https://github.com/lyalc542), between January 2023 and April 2023. Feel free to reach out for any questions.
+This complier was developed by [Chengkuan Zhao](https://github.com/chengkuanz) and [Chang Liu](https://github.com/lyalc542), between January 2023 and April 2023. Feel free to reach out for any questions.
 
 last update: July 5 2024
